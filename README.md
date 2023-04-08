@@ -10,8 +10,8 @@ A web app that helps creat cover letters and improve resumes using ai technology
 - React Router DOM
 - Tailwind CSS
 ## To Do
-- []  Design Home Page / Cover Letter Page
-- []  Add ai functionality
+- [ ]  Design Home Page / Cover Letter Page
+- [ ]  Add ai functionality
 
 ## Run Locally
 
