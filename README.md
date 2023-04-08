@@ -1,4 +1,4 @@
-# Portfolio
+# Cover Letter Creator
 
 A web app that helps creat cover letters and improve resumes using ai technology
 
